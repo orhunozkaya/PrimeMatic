@@ -1,2 +1,2 @@
 # PrimeMatic
-I try to basic prime number program.
+I try to make basic prime number program with Tkinter.
